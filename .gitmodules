@@ -1,22 +1,22 @@
 [submodule "libiio"]
 	path = libiio
-	url = https://github.com/analogdevicesinc/libiio.git
+	url = https://github.com/hjt19890912/libiio.git
 	branch = master
 [submodule "matio"]
 	path = matio
-	url = http://git.code.sf.net/p/matio/matio
+	url = https://github.com/hjt19890912/matio.git
 [submodule "dlfcn"]
 	path = dlfcn
-	url = https://github.com/dlfcn-win32/dlfcn-win32.git
+	url = https://github.com/hjt19890912/dlfcn-win32.git
 [submodule "fftw3"]
 	path = fftw3
-	url = https://github.com/FFTW/fftw3.git
+	url = https://github.com/hjt19890912/fftw3.git
 [submodule "libxml2"]
 	path = libxml2
-	url = https://github.com/GNOME/libxml2.git
+	url = https://github.com/hjt19890912/libxml2.git
 [submodule "libad9361"]
 	path = libad9361
-	url = https://github.com/analogdevicesinc/libad9361-iio.git
+	url = https://github.com/hjt19890912/libad9361-iio.git
 [submodule "libserialport"]
 	path = libserialport
-	url = git://sigrok.org/libserialport
+	url = https://github.com/hjt19890912/libserialport.git
